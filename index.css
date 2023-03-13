@@ -1,0 +1,153 @@
+#header {
+    background-color: rgb(107, 47, 21);
+    font-family: 'Handlee', cursive;
+
+
+}
+
+.navbar {
+    z-index: 1;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: rgb(107, 47, 21);
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.button{
+    margin-right: 10px;
+}
+#info {
+    color: white;
+    margin-top: 10rem;
+    margin-bottom: 6rem;
+}
+
+#info h1 {
+    font-size: 3rem;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+#info h2 {
+    font-size: 2rem;
+}
+
+.cake {
+    padding: 0%;
+}
+
+.h {
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.box h2 {
+    padding-top: 10px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#qualities {
+    padding: 4rem;
+}
+
+#qualities img {
+    width: 100px;
+    height: 100px;
+}
+
+.heading {
+    color: rgb(107, 47, 21);
+    text-align: center;
+    font-family: 'Rubik Marker Hatch', cursive;
+    font-weight: bold;
+}
+
+.bulkorder {
+
+    color: white;
+    background-color: rgb(107, 47, 21);
+    text-align: center;
+    padding: 10px;
+}
+
+.bulkorder p {
+    margin-bottom: 0%;
+    font-size: 1.25rem;
+    font-family: 'Lora', serif;
+
+}
+
+.bulkorder h2 {
+    color: rgb(225, 69, 13);
+    margin-bottom: 0%;
+}
+
+.stepsborder {
+    border: 2px solid rgb(225, 69, 13);
+
+}
+
+.steps {
+    padding: 30px;
+}
+
+#review {
+    padding: 5rem;
+    text-align: center;
+}
+
+#review p {
+    color: rgb(107, 47, 21);
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.name {
+    margin-top: 0px;
+}
+
+#review img {
+    width: 100px;
+    height: 100px;
+}
+
+#contact {
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    color: white;
+    text-align: center;
+    background-color: rgb(98, 47, 28);
+}
+
+#contact h2 {
+    margin-bottom: 10px;
+}
+
+.socialmedia {
+    width: 30px;
+    height: 30ox;
+    border-radius: 15px;
+    margin: 0 20px;
+    margin-bottom: 10px;
+
+}
+
+.copyright {
+    margin-top: 10px;
+    margin: 0%;
+}
